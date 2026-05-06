@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/Contact.jsx -> animejs\":{\"id\":\"components/Contact.jsx -> animejs\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_animejs_lib_anime_es_js.js\"]},\"components/Loader.jsx -> animejs\":{\"id\":\"components/Loader.jsx -> animejs\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_animejs_lib_anime_es_js.js\"]}}"
