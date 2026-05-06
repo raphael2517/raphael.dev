@@ -1,5 +1,6 @@
 'use client';
 import Image from 'next/image';
+import { Analytics } from "@vercel/analytics/next";
 
 /**
  * About.jsx
@@ -228,8 +229,9 @@ export default function About() {
             fill
             className="object-cover object-center"
             priority
+            
           />
-
+            <Analytics />
             {/* Hover overlay */}
             <div className="absolute inset-0 bg-acid/0 hover:bg-acid/5 transition-colors duration-500" />
           </div>
